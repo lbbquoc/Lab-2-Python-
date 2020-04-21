@@ -31,3 +31,6 @@ readGraph(link)
 # line = line.replace(" ", "")
 # print(line)
 # print(type(line.find('1')))
+
+
+# quoc dep trai vkl 
